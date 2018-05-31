@@ -1,0 +1,15 @@
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\bin\Debug\gdk.exe.config
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\bin\Debug\gdk.exe
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\bin\Debug\gdk.pdb
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\gdk.Properties.Resources.resources
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.csproj.GenerateResource.Cache
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\gdk.exe
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\gdk.pdb
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.Form1.resources
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.Form2.resources
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.Form3.resources
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.Form4.resources
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.Form5.resources
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.Form6.resources
+C:\Users\igory\OneDrive\Документы\Visual Studio 2015\Projects\gdk\gdk\obj\Debug\Fibonacci.Form7.resources
